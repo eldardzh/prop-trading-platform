@@ -3,3 +3,4 @@
 This log tracks architectural and documentation refinements.
 
 - `2025-03-13` — tighten architecture overview
+- `2025-03-14` — clarify component responsibilities
