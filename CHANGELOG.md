@@ -15,3 +15,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-16` — cross-link related repositories
 - `2025-07-17` — cross-link related repositories
 - `2025-07-18` — tighten decisions section
+- `2025-08-29` — license notice
