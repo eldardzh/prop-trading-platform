@@ -17,3 +17,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-18` — tighten decisions section
 - `2025-08-29` — license notice
 - `2025-10-29` — heading hierarchy
+- `2025-10-30` — trailing whitespace
