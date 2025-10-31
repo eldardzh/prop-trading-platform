@@ -19,3 +19,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-29` — heading hierarchy
 - `2025-10-30` — trailing whitespace
 - `2025-10-30` — badge refresh
+- `2025-10-31` — license notice
