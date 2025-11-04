@@ -22,3 +22,4 @@ This log tracks architectural and documentation refinements.
 - `2025-10-31` — license notice
 - `2025-11-01` — production status update
 - `2025-11-01` — more precise stack list
+- `2025-11-04` — production status update
