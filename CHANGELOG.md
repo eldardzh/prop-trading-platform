@@ -26,3 +26,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-05` — tighten architecture overview
 - `2025-11-05` — rephrase capabilities
 - `2025-11-19` — refine engineering invariants
+- `2025-11-20` — cross-link related repositories
