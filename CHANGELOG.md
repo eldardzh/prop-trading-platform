@@ -28,3 +28,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-19` — refine engineering invariants
 - `2025-11-20` — cross-link related repositories
 - `2025-11-21` — surface key invariants
+- `2026-01-08` — gitignore
