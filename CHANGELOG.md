@@ -30,3 +30,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-21` — surface key invariants
 - `2026-01-08` — gitignore
 - `2026-01-09` — ADR — chain-agnostic boundary
+- `2026-01-12` — tighten architecture overview
