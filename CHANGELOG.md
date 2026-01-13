@@ -31,3 +31,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-08` — gitignore
 - `2026-01-09` — ADR — chain-agnostic boundary
 - `2026-01-12` — tighten architecture overview
+- `2026-01-13` — rephrase capabilities
