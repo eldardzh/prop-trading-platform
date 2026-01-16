@@ -37,3 +37,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-15` — heading hierarchy
 - `2026-01-15` — tighten decisions section
 - `2026-01-16` — clarify component responsibilities
+- `2026-01-16` — terminology cleanup
