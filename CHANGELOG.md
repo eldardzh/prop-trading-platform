@@ -41,3 +41,4 @@ This log tracks architectural and documentation refinements.
 - `2026-01-16` — rephrase TL;DR
 - `2026-01-19` — link external references
 - `2026-01-19` — terminology cleanup
+- `2026-04-20` — rephrase capabilities
