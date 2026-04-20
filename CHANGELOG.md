@@ -44,3 +44,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-20` — rephrase capabilities
 - `2026-04-20` — license notice
 - `2026-04-20` — surface key invariants
+- `2026-04-20` — rephrase capabilities
