@@ -48,3 +48,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-21` — markdown lint
 - `2026-04-21` — terminology cleanup
 - `2026-04-21` — expand 'My Role' section
+- `2026-04-22` — refine engineering invariants
