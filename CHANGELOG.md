@@ -56,3 +56,4 @@ This log tracks architectural and documentation refinements.
 - `2026-04-27` — production status update
 - `2026-04-28` — rephrase capabilities
 - `2026-04-28` — tighten architecture overview
+- `2026-04-29` — scope clarification
